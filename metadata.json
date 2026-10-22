@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Pool: Bubble & Kick!",
+  "description": "A 25-second 3D pixel-art voxel animated swimming tutorial for kids featuring synchronized voice-over narration, interactive storyboard playback, and Google Flow video studio tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
